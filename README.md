@@ -13,7 +13,7 @@ Os datasets originais utilizados contém os dados de **Comunicação de Acidente
 
 O esquema que seguiremos está descrito abaixo:
 
-![imagem_ETL.png](https://storage.googleapis.com/projeto-ab-bc26/Images/Esquema_ETL.png)
+![imagem_ETL.png](https://github.com/AndersonGabrielCalasans/Projeto-ETL-Aquecimento/blob/main/workflow%20(2).png)
 
 ## Jupyter Notebook
 [Aqui](https://github.com/AndersonGabrielCalasans/Projeto-ETL-Aquecimento/blob/main/Projeto_Aquecimento.ipynb) você encontra o notebook Jupyter com toda a descrição e processo realizado.
